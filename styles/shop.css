@@ -92,7 +92,14 @@ padding:117px 47px 118px 47px ;
 }
 .flower-name{
     display: inline-flex;
-    
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
 }
 .deal-container{
     
@@ -135,6 +142,7 @@ text-align: center;
     background-size: cover;
     text-align: center;
     align-items: center;
+    padding-top:122px ;
 }
 #email{
     padding: 13px 513px 13px 22px;
