@@ -94,3 +94,36 @@ padding:117px 47px 118px 47px ;
     display: inline-flex;
     
 }
+.deal-container{
+    
+    margin-bottom: 120px;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+justify-content: space-around;
+padding: 100px 50px;
+text-align: center;
+    
+}
+.deal-text{
+    margin-top: 200px;
+    
+}
+.hot-deal{
+    text-align: center;
+}
+.other-pic{
+    width: 300px;
+}
+.title-info{
+    text-align: center;
+}
+.off{
+    color: #E55473;
+}
+.instra-pic{
+    display: flex;
+    margin-top:40px ;
+    margin-bottom: 120px;
+    justify-content: space-around;
+}
