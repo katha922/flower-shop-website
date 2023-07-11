@@ -125,5 +125,19 @@ text-align: center;
     display: flex;
     margin-top:40px ;
     margin-bottom: 120px;
-    justify-content: space-around;
+    justify-content: space-evenly;
+}
+.footer-container{
+    
+    background: #111010;
+    padding: 128px;
+    margin-top:128px ;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+    font-family: Lato;
+}
+.flower{
+    color: #E55473;
 }
