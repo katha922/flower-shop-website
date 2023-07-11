@@ -123,10 +123,27 @@ text-align: center;
 }
 .instra-pic{
     display: flex;
-    margin-top:40px ;
-    margin-bottom: 120px;
-    justify-content: space-evenly;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 128px;
 }
+.background-container{
+    height: 60vh;
+    background-image: url("../images/rectangle 9.png ");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+}
+#email{
+    padding: 13px 513px 13px 22px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+border: none;
+}
+
 .footer-container{
     
     background: #111010;
@@ -141,3 +158,4 @@ text-align: center;
 .flower{
     color: #E55473;
 }
+
